@@ -107,7 +107,8 @@ The model evaluates multiple long-term transition pathways:
 
 - **Business-as-Usual (BAU)**  
 - **2°C Scenario**  
-- **1.5°C Scenario**  
+- **1.5°C Scenario**
+- KLEM .jpg
 
 Scenarios differ in:
 - carbon constraints  
