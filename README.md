@@ -144,6 +144,7 @@ To run the model:
   
 2. Run model scripts: 
 3. Outputs will be generated in `/results`
+4. BAU Scenario.jpg
 
 ---
 
