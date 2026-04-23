@@ -141,8 +141,7 @@ To run the model:
 
 1. Install required dependencies:
   
-2. Run model scripts:
-3. 
+2. Run model scripts: 
 3. Outputs will be generated in `/results`
 
 ---
